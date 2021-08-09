@@ -1,0 +1,20 @@
+---
+title: "Karen Nuñez-Reza"
+image: "20200108_201355.jpg"
+color1: "#5A59A3"
+color2: "#DBDBE3"
+angle: 0
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/karen-nu%C3%B1ez-reza/"
+  - label: GitHub
+    url: "https://github.com/karenunez"
+  - label: Twitter
+    url: "https://twitter.com/julyreza"
+  - label: Email
+    url: "kajunure@gmail.com"
+output:
+  postcards::onofre
+---
+#### Bio
+I studied Biomedicine in Benemérita Universidad Autónoma de Puebla, México.
