@@ -18,3 +18,7 @@ output:
 ---
 #### Bio
 I studied Biomedicine in Benemérita Universidad Autónoma de Puebla, México.
+
+#### others interest
+
+I am co-organizaer of R-ladies Querétaro.
