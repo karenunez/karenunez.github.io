@@ -17,8 +17,22 @@ output:
   postcards::onofre
 ---
 #### Bio
-I studied Biomedicine in Benemérita Universidad Autónoma de Puebla, México.
+I am a mexican researcher focus on studying dendritic cell performans in Lupus disease.
 
-#### others interest
+#### Education
+I studied Biomedicine in Benemérita Universidad Autónoma de Puebla, México where I studied one operon transcriptional regulation of EHEC. 
+
+I did my master at IPICYT in San Luis Potosí, México. There I focused on gene regulation of mate genes in C. glabrata.
+
+In my PhD I build a model of the differentiation of human monocytes in special dendritic cell outcome.
+
+Now I am interest in tolerogenic dendritic cells in Lupus disease and their differences with healthy controls.
+
+
+#### Others interest
 
 I am co-organizaer of R-ladies Querétaro.
+
+I also enjoy been a menthor for high school girls interested in STEM area.
+
+I co-organized the [Bioinformatics Club](https://bioinformaticsclub.github.io/) 
